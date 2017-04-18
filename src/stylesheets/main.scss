@@ -1,0 +1,11 @@
+.container.main {
+  max-width: 1700px;
+  margin-top: 50px;
+}
+.double-border {
+  border-left: 1px solid gainsboro;
+  border-right: 1px solid gainsboro;
+}
+.btn-filter {
+  > button { width: 25%}
+}
